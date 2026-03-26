@@ -1,0 +1,298 @@
+{
+  "left": {
+    "name": "Wes Anderson",
+    "clustering": 0.017,
+    "n_films": 9,
+    "avg_rating": 7.6,
+    "style": "Tight ensemble \u2014 reuses the same circle"
+  },
+  "right": {
+    "name": "Steven Spielberg",
+    "clustering": 0.0031,
+    "n_films": 29,
+    "avg_rating": 7.5,
+    "style": "Wide net \u2014 draws from many disconnected pools"
+  },
+  "shared": [
+    {
+      "name": "Adam Stockhausen",
+      "role": "production_designer",
+      "anderson_count": 4,
+      "spielberg_count": 2,
+      "anderson_films": [
+        {
+          "title": "The Grand Budapest Hotel",
+          "rating": 8.1
+        },
+        {
+          "title": "Isle of Dogs",
+          "rating": 7.8
+        },
+        {
+          "title": "Moonrise Kingdom",
+          "rating": 7.7
+        },
+        {
+          "title": "The French Dispatch",
+          "rating": 7.1
+        }
+      ],
+      "spielberg_films": [
+        {
+          "title": "Bridge of Spies",
+          "rating": 7.6
+        },
+        {
+          "title": "Ready Player One",
+          "rating": 7.4
+        }
+      ]
+    },
+    {
+      "name": "Debra Zane",
+      "role": "casting_director",
+      "anderson_count": 1,
+      "spielberg_count": 4,
+      "anderson_films": [
+        {
+          "title": "Rushmore",
+          "rating": 7.6
+        }
+      ],
+      "spielberg_films": [
+        {
+          "title": "Catch Me If You Can",
+          "rating": 8.1
+        },
+        {
+          "title": "The Terminal",
+          "rating": 7.4
+        },
+        {
+          "title": "War of the Worlds",
+          "rating": 6.6
+        },
+        {
+          "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+          "rating": 6.2
+        }
+      ]
+    },
+    {
+      "name": "Jeff Goldblum",
+      "role": "actor",
+      "anderson_count": 3,
+      "spielberg_count": 2,
+      "anderson_films": [
+        {
+          "title": "The Grand Budapest Hotel",
+          "rating": 8.1
+        },
+        {
+          "title": "Isle of Dogs",
+          "rating": 7.8
+        },
+        {
+          "title": "The Life Aquatic with Steve Zissou",
+          "rating": 7.2
+        }
+      ],
+      "spielberg_films": [
+        {
+          "title": "Jurassic Park",
+          "rating": 8.2
+        },
+        {
+          "title": "The Lost World: Jurassic Park",
+          "rating": 6.6
+        }
+      ]
+    },
+    {
+      "name": "Jina Jay",
+      "role": "casting_director",
+      "anderson_count": 1,
+      "spielberg_count": 3,
+      "anderson_films": [
+        {
+          "title": "The French Dispatch",
+          "rating": 7.1
+        }
+      ],
+      "spielberg_films": [
+        {
+          "title": "Munich",
+          "rating": 7.5
+        },
+        {
+          "title": "The Adventures of Tintin",
+          "rating": 7.3
+        },
+        {
+          "title": "War Horse",
+          "rating": 7.2
+        }
+      ]
+    },
+    {
+      "name": "Barry Mendel",
+      "role": "producer",
+      "anderson_count": 3,
+      "spielberg_count": 1,
+      "anderson_films": [
+        {
+          "title": "Rushmore",
+          "rating": 7.6
+        },
+        {
+          "title": "The Royal Tenenbaums",
+          "rating": 7.6
+        },
+        {
+          "title": "The Life Aquatic with Steve Zissou",
+          "rating": 7.2
+        }
+      ],
+      "spielberg_films": [
+        {
+          "title": "Munich",
+          "rating": 7.5
+        }
+      ]
+    },
+    {
+      "name": "Luise Eigner",
+      "role": "casting_director",
+      "anderson_count": 2,
+      "spielberg_count": 1,
+      "anderson_films": [
+        {
+          "title": "The Grand Budapest Hotel",
+          "rating": 8.1
+        },
+        {
+          "title": "The French Dispatch",
+          "rating": 7.1
+        }
+      ],
+      "spielberg_films": [
+        {
+          "title": "Bridge of Spies",
+          "rating": 7.6
+        }
+      ]
+    },
+    {
+      "name": "Bob Balaban",
+      "role": "actor",
+      "anderson_count": 2,
+      "spielberg_count": 1,
+      "anderson_films": [
+        {
+          "title": "Isle of Dogs",
+          "rating": 7.8
+        },
+        {
+          "title": "Moonrise Kingdom",
+          "rating": 7.7
+        }
+      ],
+      "spielberg_films": [
+        {
+          "title": "Close Encounters of the Third Kind",
+          "rating": 7.6
+        }
+      ]
+    },
+    {
+      "name": "Kumar Pallana",
+      "role": "actor",
+      "anderson_count": 1,
+      "spielberg_count": 1,
+      "anderson_films": [
+        {
+          "title": "The Royal Tenenbaums",
+          "rating": 7.6
+        }
+      ],
+      "spielberg_films": [
+        {
+          "title": "The Terminal",
+          "rating": 7.4
+        }
+      ]
+    },
+    {
+      "name": "Meryl Streep",
+      "role": "actress",
+      "anderson_count": 1,
+      "spielberg_count": 1,
+      "anderson_films": [
+        {
+          "title": "Fantastic Mr. Fox",
+          "rating": 7.9
+        }
+      ],
+      "spielberg_films": [
+        {
+          "title": "The Post",
+          "rating": 7.2
+        }
+      ]
+    },
+    {
+      "name": "Jude Law",
+      "role": "actor",
+      "anderson_count": 1,
+      "spielberg_count": 1,
+      "anderson_films": [
+        {
+          "title": "The Grand Budapest Hotel",
+          "rating": 8.1
+        }
+      ],
+      "spielberg_films": [
+        {
+          "title": "A.I. Artificial Intelligence",
+          "rating": 7.2
+        }
+      ]
+    },
+    {
+      "name": "Ralph Fiennes",
+      "role": "actor",
+      "anderson_count": 1,
+      "spielberg_count": 1,
+      "anderson_films": [
+        {
+          "title": "The Grand Budapest Hotel",
+          "rating": 8.1
+        }
+      ],
+      "spielberg_films": [
+        {
+          "title": "Schindler's List",
+          "rating": 9.0
+        }
+      ]
+    },
+    {
+      "name": "Cate Blanchett",
+      "role": "actress",
+      "anderson_count": 1,
+      "spielberg_count": 1,
+      "anderson_films": [
+        {
+          "title": "The Life Aquatic with Steve Zissou",
+          "rating": 7.2
+        }
+      ],
+      "spielberg_films": [
+        {
+          "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+          "rating": 6.2
+        }
+      ]
+    }
+  ]
+}

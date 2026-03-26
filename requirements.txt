@@ -1,0 +1,14 @@
+pandas>=2.0
+pyarrow
+networkx
+python-igraph
+leidenalg
+minisom
+scipy
+statsmodels
+matplotlib
+seaborn
+SPARQLWrapper
+requests
+tqdm
+scikit-learn
